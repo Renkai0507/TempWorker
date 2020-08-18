@@ -1,0 +1,64 @@
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\SIS\My\bin\Debug\My.dll
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\SIS\My\bin\Debug\My.pdb
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\SIS\My\obj\Debug\My.dll
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\SIS\My\obj\Debug\My.pdb
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\SIS\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\obj\Debug\My.dll
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\obj\Debug\My.pdb
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\My.dll
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\My.pdb
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\mscorlib.dll
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\zh-Hant\mscorlib.resources.dll
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\normidna.nlp
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\normnfc.nlp
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\normnfd.nlp
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\normnfkc.nlp
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS\My\bin\Debug\normnfkd.nlp
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS-TEST\My\bin\Debug\My.dll
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS-TEST\My\bin\Debug\My.pdb
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS-TEST\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS-TEST\My\obj\Debug\My.dll
+D:\WorkE\VisualStudio\C_專案開發實戰攻略\程式範例\SIS-TEST\My\obj\Debug\My.pdb
+D:\WorkD\Usually\HIT_晶傑達\部材標籤系統\FIFO\SIS-KOE\My\bin\Debug\My.dll
+D:\WorkD\Usually\HIT_晶傑達\部材標籤系統\FIFO\SIS-KOE\My\bin\Debug\My.pdb
+D:\WorkD\Usually\HIT_晶傑達\部材標籤系統\FIFO\SIS-KOE\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\WorkD\Usually\HIT_晶傑達\部材標籤系統\FIFO\SIS-KOE\My\obj\Debug\My.dll
+D:\WorkD\Usually\HIT_晶傑達\部材標籤系統\FIFO\SIS-KOE\My\obj\Debug\My.pdb
+D:\WorkD\Usually\HIT_晶傑達\部材標籤系統\FIFO\SIS-KOE\My\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_STS\My\bin\Debug\My.dll
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_STS\My\bin\Debug\My.pdb
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_STS\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_STS\My\obj\Debug\My.dll
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_STS\My\obj\Debug\My.pdb
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_SYS\My\bin\Debug\My.dll
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_SYS\My\bin\Debug\My.pdb
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_SYS\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_SYS\My\obj\Debug\My.dll
+D:\WorkD\Usually\HIT_晶傑達\線上盤點系統\KOE_STOCK_SYS\My\obj\Debug\My.pdb
+D:\客戶資料區\YS_鈺昇\副料加工管理系統\YSWORKSYS\My\bin\Debug\My.dll
+D:\客戶資料區\YS_鈺昇\副料加工管理系統\YSWORKSYS\My\bin\Debug\My.pdb
+D:\客戶資料區\YS_鈺昇\副料加工管理系統\YSWORKSYS\My\obj\Debug\My.dll
+D:\客戶資料區\YS_鈺昇\副料加工管理系統\YSWORKSYS\My\obj\Debug\My.pdb
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\bin\Debug\My.dll
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\bin\Debug\My.pdb
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\bin\Debug\Communication.dll
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\bin\Debug\Keyence.AutoID.SDK.dll
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\bin\Debug\VncClientControlCommon.dll
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\obj\Debug\My.dll
+D:\客戶資料區\2.台中分公司\LS_理盛(台中)\LSWORKSYS\My\obj\Debug\My.pdb
+D:\客戶資料區\YC_鈺晟精密(台中)\YCWORKSYS\My\bin\Debug\My.dll
+D:\客戶資料區\YC_鈺晟精密(台中)\YCWORKSYS\My\bin\Debug\My.pdb
+D:\客戶資料區\YC_鈺晟精密(台中)\YCWORKSYS\My\bin\Debug\VncClientControlCommon.dll
+D:\客戶資料區\YC_鈺晟精密(台中)\YCWORKSYS\My\obj\Debug\My.csprojResolveAssemblyReference.cache
+D:\客戶資料區\YC_鈺晟精密(台中)\YCWORKSYS\My\obj\Debug\My.dll
+D:\客戶資料區\YC_鈺晟精密(台中)\YCWORKSYS\My\obj\Debug\My.pdb
+E:\Work\C#\TempWorker\My\bin\Debug\My.dll
+E:\Work\C#\TempWorker\My\bin\Debug\My.pdb
+E:\Work\C#\TempWorker\My\bin\Debug\VncClientControlCommon.dll
+E:\Work\C#\TempWorker\My\obj\Debug\My.csprojAssemblyReference.cache
+E:\Work\C#\TempWorker\My\obj\Debug\My.csproj.CoreCompileInputs.cache
+E:\Work\C#\TempWorker\My\obj\Debug\My.csproj.CopyComplete
+E:\Work\C#\TempWorker\My\obj\Debug\My.dll
+E:\Work\C#\TempWorker\My\obj\Debug\My.pdb
